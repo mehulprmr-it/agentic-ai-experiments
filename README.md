@@ -16,3 +16,27 @@ Evaluation of reasoning, adaptability, and goal-driven task completion
 Mini projects demonstrating real-world agent use cases
 
 This repo is designed to document learning progress, prototype ideas, and build intuition around how next-generation AI systems function.
+
+# Agentic AI Experiments 🤖
+
+## Overview
+Brief introduction about the goal of the project and what Agentic AI means.
+
+## Motivation
+Why you started this repo — e.g., to explore how autonomous AI agents can reason, plan, and act.
+
+## Features
+- LLM-powered agents
+- Multi-step reasoning
+- Tool and API integration
+- Experiment tracking
+
+## Repository Structure
+Explain the folders and purpose briefly.
+
+## Getting Started
+1. Clone the repository  
+2. Install dependencies:  
+   ```bash
+   pip install -r requirements.txt
+
